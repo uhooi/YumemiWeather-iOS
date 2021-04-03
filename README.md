@@ -8,3 +8,28 @@
 |:--|:--|:--|
 |[main](https://github.com/uhooi/YumemiWeather-iOS/tree/main)|[![CI](https://github.com/uhooi/YumemiWeather-iOS/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/uhooi/YumemiWeather-iOS/actions/workflows/main.yml)|TBD|
 |[develop](https://github.com/uhooi/YumemiWeather-iOS/tree/develop)|[![CI](https://github.com/uhooi/YumemiWeather-iOS/actions/workflows/main.yml/badge.svg?branch=develop)](https://github.com/uhooi/YumemiWeather-iOS/actions/workflows/main.yml)|TBD|
+
+YumemiWeather-iOS is an iOS app training from YUMEMI Inc.
+
+## Development
+
+You can develop this project.
+
+### Configuration
+
+- UI implementation: Storyboard + XIB
+- Architecture: TBD
+- Branching model: Git-flow
+
+### Setup
+
+1. Install the following tools.
+
+- [Xcode](https://apps.apple.com/jp/app/xcode/id497799835): 12.4
+
+2. Clone the project.
+
+```shell
+$ git clone https://github.com/uhooi/YumemiWeather-iOS.git
+$ cd YumemiWeather-iOS
+```
