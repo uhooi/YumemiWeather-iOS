@@ -9,7 +9,7 @@
 |[main](https://github.com/uhooi/YumemiWeather-iOS/tree/main)|[![CI](https://github.com/uhooi/YumemiWeather-iOS/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/uhooi/YumemiWeather-iOS/actions/workflows/main.yml)|TBD|
 |[develop](https://github.com/uhooi/YumemiWeather-iOS/tree/develop)|[![CI](https://github.com/uhooi/YumemiWeather-iOS/actions/workflows/main.yml/badge.svg?branch=develop)](https://github.com/uhooi/YumemiWeather-iOS/actions/workflows/main.yml)|TBD|
 
-YumemiWeather-iOS is an iOS app training from YUMEMI Inc.
+YumemiWeather-iOS is [an iOS app training from YUMEMI Inc](https://github.com/yumemi-inc/ios-training).
 
 ## Development
 
